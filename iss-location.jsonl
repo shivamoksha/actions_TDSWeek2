@@ -5000,3 +5000,4 @@
 {"timestamp": 1742222854, "iss_position": {"latitude": "-47.0990", "longitude": "-55.2279"}, "message": "success"}
 {"timestamp": 1742223405, "iss_position": {"latitude": "-25.6930", "longitude": "-21.4911"}, "message": "success"}
 {"timestamp": 1742224799, "iss_position": {"latitude": "40.9081", "longitude": "38.3477"}, "message": "success"}
+{"timestamp": 1742225799, "iss_position": {"latitude": "41.9665", "longitude": "125.3399"}, "message": "success"}
