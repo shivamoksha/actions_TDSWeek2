@@ -5028,3 +5028,4 @@
 {"timestamp": 1742248070, "iss_position": {"latitude": "42.2869", "longitude": "30.3511"}, "message": "success"}
 {"timestamp": 1742248617, "iss_position": {"latitude": "18.4020", "longitude": "58.8450"}, "message": "success"}
 {"timestamp": 1742249963, "iss_position": {"latitude": "-44.3397", "longitude": "119.1461"}, "message": "success"}
+{"timestamp": 1742251012, "iss_position": {"latitude": "-36.4482", "longitude": "-151.8218"}, "message": "success"}
