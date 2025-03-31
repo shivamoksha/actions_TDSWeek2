@@ -10,14 +10,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 24f2005217@ds.study.iitm.ac.in
+      - name: 22f3001416@ds.study.iitm.ac.in
         uses: actions/checkout@v4
 
       - name: Make changes and commit
         run: |
           echo "$(date)" > last_run.txt
           git config --global user.name "GitHub Action"
-          git config --global user.email "24f2005217@ds.study.iitm.ac.in"
+          git config --global user.email "22f3001416@ds.study.iitm.ac.in"
           git add last_run.txt
           git commit -m "Automated commit - $(date)"
           git push
